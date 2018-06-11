@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-05T02:26:35.878Z</updated>
+  <updated>2018-06-11T01:10:28.786Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>blockchain</title>
+    <link href="http://yoursite.com/2018/06/11/blockchain/"/>
+    <id>http://yoursite.com/2018/06/11/blockchain/</id>
+    <published>2018-06-11T00:50:58.000Z</published>
+    <updated>2018-06-11T01:10:28.786Z</updated>
+    
+    <content type="html"><![CDATA[<h3>블록, 블록체인이란 무엇인가? 왜 “체인&quot;이라는 단어를 사용하는가? *</h3><p>블록이란 내용 수정이 불가능한 분산형 공공 거래 원장을 의미하여 즉 데이터 이고 거래내용들이 모여있는 공간이다. 이러한 블록들은 블록체인 네트워크 전역에 퍼져있으며 현재의 블록과 다음에 생성된 블록의 무결점성을 증명해 주는데 이러한 모양이 체인으로 감싸놓은것 같다고 해서 체인 이라는 단어를 사용한다.</p><h3>비트코인이란 무엇인가? 블록체인과 비트코인의 관계는 무엇인가? *</h3><p>비트코인은 중앙 집중된 권력의 개입과 통제가 없이 p2p로 개인과 개인이 직접 주고받는 거래가 가능한 새로운 유형의 암호화화폐이다. 이 비트코인은 블록체인이라는 분산화된 거래장부를 화폐에 응용한 결과물이다.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3&gt;블록, 블록체인이란 무엇인가? 왜 “체인&amp;quot;이라는 단어를 사용하는가? *&lt;/h3&gt;
+&lt;p&gt;블록이란 내용 수정이 불가능한 분산형 공공 거래 원장을 의미하여 즉 데이터 이고 거래내용들이 모여있는 공간이다. 이러한 블록들은 블록체인 네트워크 전
+      
+    
+    </summary>
+    
+      <category term="BlockChain" scheme="http://yoursite.com/categories/BlockChain/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2018/06/05/hello-world/"/>
     <id>http://yoursite.com/2018/06/05/hello-world/</id>
     <published>2018-06-05T01:14:28.624Z</published>
     <updated>2018-06-05T02:26:35.878Z</updated>
     
-    <content type="html"><![CDATA[<!-- Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).## Quick Start### Create a new post<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a> –&gt;</p>-->]]></content>
+    <content type="html"><![CDATA[<!-- Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).## Quick Start### Create a new post<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a> --&gt;</p>-->]]></content>
     
     <summary type="html">
     
