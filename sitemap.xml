@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/06/18/firebase-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%95%84%EC%9D%B4%EB%94%94-%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%EB%B0%A9%EB%B2%95/</loc>
+    
+    <lastmod>2018-06-18T06:12:26.522Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/06/11/ReactiveX-RxJS-Reactive-Extensions-For-JavaScript/</loc>
     
     <lastmod>2018-06-11T08:45:22.030Z</lastmod>

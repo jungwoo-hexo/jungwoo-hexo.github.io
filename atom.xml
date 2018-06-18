@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-11T08:45:22.030Z</updated>
+  <updated>2018-06-18T06:12:26.522Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>firebase_로그인_아이디_변경하는방법!</title>
+    <link href="http://yoursite.com/2018/06/18/firebase-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%95%84%EC%9D%B4%EB%94%94-%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%EB%B0%A9%EB%B2%95/"/>
+    <id>http://yoursite.com/2018/06/18/firebase-로그인-아이디-변경하는방법/</id>
+    <published>2018-06-18T06:07:40.000Z</published>
+    <updated>2018-06-18T06:12:26.522Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="command에서-로그인-아이디-변경하는-방법"><a href="#command에서-로그인-아이디-변경하는-방법" class="headerlink" title="command에서 로그인 아이디 변경하는 방법"></a>command에서 로그인 아이디 변경하는 방법</h3><p>firebase 를 command에서 사용할 경우 </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">firebase login</span><br></pre></td></tr></table></figure><p>을 통해 한번 이라도 인증을 하게 되면 인증된 아이디를 자동으로 로그인 하게 된다.</p><p>다른 계정으로 firebase에 인증하고싶은경우 </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">firebase login --reauth</span><br></pre></td></tr></table></figure><p>명령어를 사용하게되면 새로운 윈도우에 구글 로그인 화면이 뜨면서 계정을 선택할 수 있다</p><p>끝!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;command에서-로그인-아이디-변경하는-방법&quot;&gt;&lt;a href=&quot;#command에서-로그인-아이디-변경하는-방법&quot; class=&quot;headerlink&quot; title=&quot;command에서 로그인 아이디 변경하는 방법&quot;&gt;&lt;/a&gt;command에서 로
+      
+    
+    </summary>
+    
+      <category term="Firebase" scheme="http://yoursite.com/categories/Firebase/"/>
+    
+    
+      <category term="firebase" scheme="http://yoursite.com/tags/firebase/"/>
+    
+      <category term="Firebase" scheme="http://yoursite.com/tags/Firebase/"/>
+    
+      <category term="firebase-tools" scheme="http://yoursite.com/tags/firebase-tools/"/>
+    
+      <category term="firebase-tools login" scheme="http://yoursite.com/tags/firebase-tools-login/"/>
+    
+      <category term="firebase login" scheme="http://yoursite.com/tags/firebase-login/"/>
+    
+      <category term="firebase login --reauth" scheme="http://yoursite.com/tags/firebase-login-reauth/"/>
+    
+  </entry>
   
   <entry>
     <title>[ReactiveX] RxJS - Reactive Extensions For JavaScript</title>
